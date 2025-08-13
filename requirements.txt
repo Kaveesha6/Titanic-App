@@ -1,0 +1,34 @@
+# Streamlit ML Dashboard Requirements
+# Core Framework
+streamlit>=1.28.0
+
+# Data Manipulation and Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization Libraries
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Additional Dependencies (automatically installed with above packages)
+# scipy>=1.10.0
+# joblib>=1.3.0
+# python-dateutil>=2.8.0
+# pytz>=2023.0
+# pillow>=9.0.0
+# kiwisolver>=1.4.0
+# cycler>=0.11.0
+# fonttools>=4.30.0
+# packaging>=20.0
+# pyparsing>=3.0.0
+# contourpy>=1.0.0
+# threadpoolctl>=3.0.0
+
+# Optional: For better performance and additional features
+# openpyxl>=3.1.0  # For Excel file support
+# xlsxwriter>=3.1.0  # For Excel writing
+# requests>=2.31.0  # For API calls if needed
