@@ -245,24 +245,24 @@ streamlit run app.py --server.port 8502
 ## 📊 **Screenshots**
 
 ### Home Page
-Home Page.png
+<img src="./screenshots/Home Page.png">
 > Dashboard overview with dataset metrics
 
 ### Data Exploration
+<img src="./screenshots/Data Exploration.png" >
 > Interactive filtering and statistical analysis
-Data Exploration.png
 
 ### Visualizations
+<img src="./screenshots/Visualizations.png" >
 > Multiple chart types with customization options
-Visualizations.png
 
 ### Model Predictions
+<img src="./screenshots/Model Predictions.png" >
 > Real-time predictions with confidence scores
-Model Predictions.png
 
 ### Model Performance
+<img src="./screenshots/Model Performance.png" >
 > Comprehensive evaluation metrics and comparisons
-Model Performance.png
 
 ## 📈 **Future Enhancements**
 
